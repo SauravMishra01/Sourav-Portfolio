@@ -1,8 +1,9 @@
 [
+  
   {
-    "name": "Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
+    "name": "V2 Bike Engine",
+    "desc": "V2 Bike Engine CAD model! 🏍️ This project showcases my skills in 3D modeling and precision mechanical design, focusing on the intricate details of engine components. It was a great experience translating technical requirements into a detailed digital prototype",
+    "image": "https://media.licdn.com/dms/image/v2/D4E22AQHW8-jo5q7J1A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725520132540?e=1739404800&v=beta&t=NYpyJ0ICC7uitdWgBe_Gb9OTZq5dffafFiBrQ6vHgL4",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/#",
@@ -10,9 +11,50 @@
     }
   },
   {
-    "name": " Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
+    "name": "Inline 4-cylinder bike engine",
+    "desc": "This model showcases the precision and complexity involved in engine design, from the crankshaft to the pistons, ensuring optimal performance and mechanical efficiency. Always eager to explore more in the world of CAD and push the limits of engineering design! ",
+    "image": "https://media.licdn.com/dms/image/v2/D5622AQHevrZMVRK4ow/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726141542860?e=1739404800&v=beta&t=Ipj3hdh9T5LWrLiZEWKA3J3lXVdfItiLQTmgXLXtVQI",
+    "category": "",
+    "links": {
+      "view": "https://www.linkedin.com/posts/#",
+      "code": "https://github.com/#"
+    }
+  },
+  {
+    "name": "Inline 6 car engine model",
+    "desc": "This project emphasizes advanced CAD techniques and detailed component integration to optimize performance, efficiency, and reliability. It reflects my passion for innovative automotive engineering and my commitment to delivering high-quality design solutions",
+    "image": "https://media.licdn.com/dms/image/v2/D5622AQG2ArPvp_s52A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726032786647?e=1739404800&v=beta&t=kC6EJk93pS9Py8KBK9oDGATmGSFjgdMvlfe5nnMgsMQ",
+    "category": "",
+    "links": {
+      "view": "https://www.linkedin.com/posts/#",
+      "code": "https://github.com/#"
+    }
+  },
+  {
+    "name": "Truck crane model designed",
+    "desc": " It was a challenging yet rewarding experience working on the assembly of various components, ensuring both structural integrity and functionality. This project honed my skills in 3D CAD modeling and assembly design. ",
+    "image": "https://media.licdn.com/dms/image/v2/D5622AQG0D3mb7388-g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726462649061?e=1739404800&v=beta&t=WM9LAAJJIydg5wSO9eEI-qDRrRz5IBXMVf7m_G2pFGE",
+    "category": "",
+    "links": {
+      "view": "https://www.linkedin.com/posts/#",
+      "code": "https://github.com/#"
+    }
+  },
+  {
+    "name": "2-cylinder horizontal steam non-reversing engine",
+    "desc": " This engine features a dual-cylinder configuration with precision-engineered connecting rods, pistons, and a sturdy flywheel for smooth power transmission. The design also incorporates efficient piping for steam flow and a rigid base for stability.",
+    "image": "https://media.licdn.com/dms/image/v2/D5622AQFevM3oq-54dA/feedshare-shrink_1280/feedshare-shrink_1280/0/1733061152751?e=1739404800&v=beta&t=BRzGurrcd4_s6JEN0geVBEY97JGei2Jjy92zoEgZPD0",
+    "category": "",
+    "links": {
+      "view": "https://www.linkedin.com/posts/#",
+      "code": "https://github.com/#"
+    }
+  },
+  
+  {
+    "name": "Wireless EV Charging using Solar",
+    "desc": "Wireless Electric Vehicle Charging System using Solar Panel (Major Project in B.Tech) Inline 6 Engine Assembly using SolidWorks Truck crane Assembly using SolidWorks Single and Twin Cylinder Engine Assembly using Solidworks ",
+    "image": "https://i.ytimg.com/vi/Qti2Tlla1v4/maxresdefault.jpg",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/#",
